@@ -6,7 +6,7 @@ body{
     display: flex;
     gap: 20px;
     justify-content: space-between;
-    padding: 50px;
+    padding: 0px;
    
 }
 
@@ -21,4 +21,9 @@ body{
     color: rgb(31, 30, 30);
     text-decoration: none;
 
+}
+
+.corpo{
+    background-color: azure;
+    padding: px;
 }
