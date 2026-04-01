@@ -2,6 +2,9 @@ body{
     background-color: rgb(204, 204, 204);
 }
 
+
+
+
 .navegacao{
     display: flex;
     gap: 20px;
@@ -26,4 +29,42 @@ body{
 .corpo{
     background-color: azure;
     padding: px;
+}
+
+.imgg {
+    width: 100px;
+    display: flex;
+    gap: 73px;
+   
+    
+}
+
+article {
+    background-color: antiquewhite;
+    text-align: center;
+    border: solid gray;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.pai{
+    display: flex;
+    gap: 40px;
+}
+
+
+img{
+    width: 100%;
+    border: solid;
+    border-radius: 15px;
+}
+
+.room{
+    list-style: none;
+}
+
+.pe{
+    
+    display: flex;
+    justify-content: space-between;
 }
